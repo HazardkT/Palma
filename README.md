@@ -1,5 +1,9 @@
 # Palma Ledger
 
+[Buka web app Palma Ledger](https://hazardkt.github.io/Palma/)
+
+Saat dibuka, aplikasi berjalan dalam mode demo. Untuk terhubung ke database Supabase, silakan login terlebih dahulu.
+
 Palma Ledger adalah aplikasi akuntansi pendapatan kamar dan piutang usaha untuk **satu hotel**. Antarmuka dibuat dengan HTML, CSS, dan JavaScript; Supabase menyediakan autentikasi, PostgreSQL, Row Level Security (RLS), serta fungsi transaksi akuntansi.
 
 ## Fitur
