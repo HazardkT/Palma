@@ -3,7 +3,7 @@
 [Buka web app Palma Ledger](https://hazardkt.github.io/Palma/frontend/)
 
 Saat dibuka, aplikasi berjalan dalam mode demo. Untuk terhubung ke database Supabase, silakan login terlebih dahulu.
-untuk login gunakan:
+untuk login klik logo AR di pojok kanan atas dan gunakan:
 
 **email: palma@hotel.com**
 **password: palma123**
